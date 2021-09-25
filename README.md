@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ammishaddai Jacobus
-- 👀 I’m interested in software engineer
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building an application
 - 📫 How to reach me: you can email me on ammishaddaijacobus@gmail.com or you can add me on facebook: Amy Jacobus
